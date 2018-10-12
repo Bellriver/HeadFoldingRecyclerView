@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_topview_min_height">0dp</dimen>
+    <dimen name="main_topview_max_height">160dp</dimen>
+    <dimen name="divider_header_gap">6dp</dimen>
+</resources>
