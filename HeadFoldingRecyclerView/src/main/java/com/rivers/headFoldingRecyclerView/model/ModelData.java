@@ -1,7 +1,7 @@
 package com.rivers.headFoldingRecyclerView.model;
 
 /**
- * Created by jiangjiang.zhong on 2018/10/9.
+ * Created by Rivers on 2018/10/9.
  * Description:
  */
 
